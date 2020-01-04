@@ -1,5 +1,5 @@
 ﻿<Database>
-    <GameDBStringTable ID="5INS_ANDY_MOD">
+    <GameDBStringTable ID="6INS_ANDY_MOD">
     
         <LanguageCode>en</LanguageCode>
         <LanguageNameLocalized>English</LanguageNameLocalized>
@@ -10,7 +10,7 @@
 
         <LocalizedStrings>
 		
-		    <GameDBLocalizedString>    <LocID>5INS_ANDY_MOD</LocID>              <Text>5 Insurancies</Text>  </GameDBLocalizedString>
+		    <GameDBLocalizedString>    <LocID>6INS_ANDY_MOD</LocID>              <Text>6 Insurancies</Text>  </GameDBLocalizedString>
 			
 		</LocalizedStrings>
 
