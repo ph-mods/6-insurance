@@ -1,4 +1,6 @@
 ﻿<Database>
     <!-- Override the default tweakable value -->
-	<GameDBTweakableInt ID="TWEAKABLE_MAX_INSURANCE_COMPANIES">   <Value>6</Value>   </GameDBTweakableInt>	
+    <GameDBTweakableInt ID="TWEAKABLE_MAX_INSURANCE_COMPANIES">
+        <Value>6</Value>
+    </GameDBTweakableInt>
 </Database> 
