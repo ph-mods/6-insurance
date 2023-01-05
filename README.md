@@ -1,5 +1,10 @@
 # Overview
-Simple mod for adding more insurance companies to use in the game. This mod is available in two different version. For 5 or 6 companies.
+Simple mod for adding more insurance companies to use in the game. 
+This mod is available in two different version:
+
+* [5 companies](./)
+* [6 companies](https://github.com/ph-mods/6-insurances)
+* [10 companies](https://github.com/ph-mods/10-insurances)
 
 ## Release
 
