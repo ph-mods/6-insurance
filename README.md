@@ -3,10 +3,6 @@ Simple mod for adding more insurance companies to use in the game. This mod is a
 
 ## Release
 
-### 5 Insurance Companies
+The latest release on Steam can always be found on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1959471780)
 
-* [V1](https://github.com/andy-fritz/PH-InsuranceMod/releases/tag/5C-V1)
-
-### 6 Insurance Companies
-
-* [V1](https://github.com/andy-fritz/PH-InsuranceMod/releases/tag/6C-V1)
+The source can be found on the [release page](https://github.com/ph-mods/6-insurances/releases)
